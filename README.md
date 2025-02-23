@@ -1,0 +1,1 @@
+This project is a recreation of 'Super Mario Bros' game using Python and OpenGL. The game contains Jump, Run, Move left/right animation of the character, score increment through coin collection, game over through collision detection with objects and platforms.
